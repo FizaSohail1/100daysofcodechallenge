@@ -1,0 +1,21 @@
+Day 52 challenge was to read an article.
+
+1-Javascript Introduction:- 
+Javascript was initially created to “make web pages alive”.JavaScript not only execute in the browser, but also on the server, or actually on any device that has a special program called the JavaScript engine.
+
+2-What does Javascript in-browser do:-
+JavaScript is a “safe” programming language.JavaScript is a type of computer language that's used in many places, like web browsers. It helps make websites interactive and responsive. it can add new HTML to the page, change the existing one, and modify styles and more.
+
+3-What can't in-browser JavaScript do:-
+In-browser JavaScript has limitations there are some things that javascript can't do such as :
+-It can't access your computer's files without your permission.
+-It can't secretly turn on your camera or microphone.
+-It can't see what you're doing in other browser tabs, like reading your email.
+
+4- Things that make javascrpt unique:-
+-Full integration with HTML/CSS.
+-Supported by all major browsers and enabled by default.
+it is the only browser technology that combines these three things.
+
+5- Javascript transpilers:-
+There are many languages that get “transpiled” to JavaScript and provide certain features.such as: CoffeeScript,Typescript,flow etc.
