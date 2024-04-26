@@ -1,0 +1,32 @@
+On the day of 51 we were assigned to read an article by sir Asharib Ali. 
+
+There are some important pint from this article:
+
+1- Practice,Practice and Paractice..:-
+In this article it was clearly described that if you want to be a good programmar practice , practice and just practice. By practicing coding questions on daily bases this will helps in getting familiar with syntax, understanding common programming problems,developing problem-solving skills.
+
+2- Regularity in learning:-
+Avoid irregularity in learning, never skip even a single day of your programming.You should do your programming on daily bases this will helps you to think and solve more complex problems.
+
+3-We should not do overAnaylsis of the concept:-
+Avoid overanaylsis it's mean dont spend to much time understanding a single topic or concept just understand them in a simple way, use them practically, and move forward. Save in-depth analysis for later when you have more experience.
+
+4-Pay Attention to Error Messages-
+Read the error carefully and try to understand the error message. However, these messages contain valuable clues to solve issues. 
+
+5-Practice with MCQs:-
+Practicing(MCQs) is beneficial. It helps in campus interviews and enhances understanding of programming syntax and rules. MCQs also teach how programs behave in different situations.
+
+6-Code with hands:-
+Code using pen and paper. This method helps in processing information faster, promotes quicker technical learning.
+
+7-Read other's code:- 
+Don't hesitate to read code written by others. It's a valuable learning experience that can help you find solutions to challenging problems more efficiently and save time.
+
+8-Improve Problem-Solving Skills: Developing strong problem-solving skills is a crucial skill for developers. Don't get discouraged by errors; instead, learn from them and continue the learning process.
+
+9-Break Tasks into Smaller Parts:-
+In programming, taking time to complete tasks without errors is important. Beginners should start with basic concepts and gradually progress. 
+
+10-Find a perfect mentor:-
+Find a knowledgeable mentor who can guide you in a right direction, Explain you the solutions of different problems occurs in programming.
